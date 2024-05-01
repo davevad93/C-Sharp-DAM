@@ -1,0 +1,2 @@
+{ DNI = 22111333, Titulo = Cien años de soledad, ISBN = 9788420471839 }
+{ DNI = 22111333, Titulo = Los mejores cuentos de Clarín, ISBN = 9788431533441 }
